@@ -1,0 +1,41 @@
+a{
+    text-decoration: none;
+}
+.happy{
+    color: rgb(236, 78, 72);
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(214, 80, 2);
+}
+.sad{
+    color: coral;
+}
+.angree{
+    color: rgb(122, 35, 0);
+    margin-left: 50px;
+    margin-right: 30px;
+}
+.pussy{
+border: none;
+border-top: 2px solid rgb(231, 66, 0);
+}
+.lol{
+    color: darkorange;
+}
+.kek{
+    border: none;
+    border-top: 2px solid rosybrown;
+}
+.tresh{
+    color: brown;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.overprace{
+    color: rgb(122, 35, 0);
+    margin-left: 100px;
+    margin-right: 30px;
+}
